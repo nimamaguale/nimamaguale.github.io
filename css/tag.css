@@ -1,0 +1,16 @@
+header {
+    background: rgba(255, 138, 196);
+    color: aqua;
+}
+
+#section1 {
+    background: yellow;
+}
+
+#section2 {
+    background: blue;
+}
+
+#section3 {
+    background: red;
+}
